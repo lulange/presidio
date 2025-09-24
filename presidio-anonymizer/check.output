@@ -1,0 +1,11 @@
+new check
+origin	https://github.com/lulange/presidio.git (fetch)
+origin	https://github.com/lulange/presidio.git (push)
+0
+text: My name is lulange, lulange.
+items:
+[
+    {'start': 20, 'end': 27, 'entity_type': 'PERSON', 'text': 'lulange', 'operator': 'replace'},
+    {'start': 11, 'end': 18, 'entity_type': 'PERSON', 'text': 'lulange', 'operator': 'replace'}
+]
+
